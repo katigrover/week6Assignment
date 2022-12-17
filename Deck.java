@@ -1,5 +1,7 @@
 package week6;
 
+//Created Deck Class with a list of Cards, shuffles cards, then players draw 26 cards each.
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.LinkedHashMap;
