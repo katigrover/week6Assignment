@@ -1,5 +1,7 @@
 package week6;
 
+//Created Card Class with fields value and name. Generated getters/setter.
+
 public class Card {
 
 	private Integer value; 
